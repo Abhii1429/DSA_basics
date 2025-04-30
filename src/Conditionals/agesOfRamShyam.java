@@ -13,7 +13,7 @@ public class agesOfRamShyam {
         if(age1 > age2){
             if(age2 > age3) System.out.println("Ajay is youngest");
             else System.out.println("Shyam is youngest");
-                if(age1 >age3) System.out.println("Ajay is youngest");
+                if(age1 >age3){ System.out.println("Ajay is youngest");}
             else System.out.println("Ram is youngest");
         }
     }
