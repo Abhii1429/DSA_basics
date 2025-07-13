@@ -1,4 +1,4 @@
-
+package Conditionals;
 import java.util.*;
 public class weekDay {
     public static void main(String [] args){
@@ -35,5 +35,6 @@ public class weekDay {
             System.out.println("Sunday");
             break;
         }
+        sc.close();
     }
 }
