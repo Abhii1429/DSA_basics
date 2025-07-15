@@ -9,12 +9,10 @@ public class twoPointer07 {
         System.out.print(ele+" ");
     }
     System.out.println();
-
     int n = arr.length;
 
-    // int i = 0, j = n-1;
-    int i = 1, j = 5;//reverses part of the array
-
+    int i = 0, j = n-1;
+    // int i = 1, j = 5;//reverses part of the array
 
     while(i <= j){
         // int temp = arr[i];
