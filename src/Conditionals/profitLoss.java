@@ -20,6 +20,7 @@ public class profitLoss {
             System.out.println("Total loss earned is "+ l);
             double l1 = ((sp-cp)/cp)*100;//Loss%
             System.out.println("Therefore,Loss % is "+l1);
+             sc.close();
         }
 
     }

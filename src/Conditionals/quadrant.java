@@ -14,5 +14,6 @@ public class quadrant {
         else if(x > 0 && y < 0) System.out.println("Point lies in 4 quadrant.");
         else if(x == 0 && y >0 || y < 0) System.out.println("Point lies on Y axis");
         else System.out.println("Point lies on Y axis");
+         sc.close();
     }
 }

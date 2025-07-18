@@ -12,5 +12,6 @@ public class calculatorIfElse {
         if(op == '-') System.out.println(a - b);
         if(op == '*') System.out.println(a * b);
         if(op == '/') System.out.println(a / b);
+         sc.close();
     }
 }

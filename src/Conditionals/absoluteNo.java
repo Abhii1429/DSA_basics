@@ -7,5 +7,6 @@ public class absoluteNo {
         int n = sc.nextInt();
         int a = Math.abs(n);
         System.out.println("Absolute No : " +a);
+     sc.close();    
     }
 }

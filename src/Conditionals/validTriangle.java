@@ -12,5 +12,6 @@ public class validTriangle {
         if((a+b)>c && (b+c)>a && (c+a)>a)
             System.out.println("Valid Triangle");
         else System.out.println("Not valid");
+         sc.close();
     }
 }

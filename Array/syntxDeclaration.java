@@ -37,5 +37,6 @@ public class syntxDeclaration {
     for(int i = 0; i <= 6; i++){
         System.out.print(arr[i] + " ");
     }
+     sc.close();
   }
 }

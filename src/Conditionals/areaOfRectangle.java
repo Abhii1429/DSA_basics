@@ -13,5 +13,6 @@ public class areaOfRectangle {
         double p = 2*(l+b);
         if(a>p) System.out.println("Area is greater than perimeter");
         else System.out.println("Perimeter is greater than Area");
+    sc.close();
     }
 }

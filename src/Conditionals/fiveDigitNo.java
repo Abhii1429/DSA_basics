@@ -8,5 +8,6 @@ public class fiveDigitNo {
         if(n>9999 && n<100000)
             System.out.println("It is a 5 digit no.");
         else System.out.println("Not a 5 digit no.");
+        sc.close();
     }
 }

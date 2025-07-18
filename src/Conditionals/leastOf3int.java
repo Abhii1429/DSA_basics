@@ -15,6 +15,7 @@ public class leastOf3int {
             System.out.println(b + " is the  least number.");
         } else {
             System.out.println(c + " is the  least number");
+             sc.close();
         }
     }
 }

@@ -27,6 +27,7 @@ public class calculatorSwitch {
                 break;
             default : // act like "else" function in switch statement
                 System.out.println("Invalid operator"); // when invalid operators entered
+        sc.close();
         }
     }
 }

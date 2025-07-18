@@ -12,5 +12,6 @@ public class absoluteNumber {
         } else{
                 System.out.println("Absolute value is "+ -n);
             }
+     sc.close();        
     }
 }

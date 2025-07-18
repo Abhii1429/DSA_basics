@@ -10,5 +10,6 @@ public class marks {
         else if ( m >= 60) System.out.println("Good");
        else if (m > 40) System.out.println("Average");
         else  System.out.println("Fail"); //(m < 40)
+         sc.close();
     }
 }

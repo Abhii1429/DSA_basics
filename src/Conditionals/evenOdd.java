@@ -11,5 +11,6 @@ public class evenOdd {
             System.out.println( n +" is an Even Number.");
         if(n%2 == 1)
             System.out.println( n +" is an Odd Number.");
+         sc.close();
     }
 }

@@ -16,6 +16,7 @@ public class greatestOfThreeNestedIfElse {
         } else { // else will include (b>=a) condition, this condition{(b>=a)} will be true as a>b isn't true.
             if(b>c) System.out.println(b+ " is the largest");
             else System.out.println(c+ " is the largest"); //else implies (c>=b>=a)
+             sc.close();
         }
     }
 }

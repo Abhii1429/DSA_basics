@@ -10,5 +10,6 @@ public class threeDigitNumber {
             System.out.println("It's a 3 digit number.");
         else
             System.out.println("Not a 3 digit number.");
+             sc.close();
     }
 }
