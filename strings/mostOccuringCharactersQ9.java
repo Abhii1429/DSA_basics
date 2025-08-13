@@ -2,6 +2,7 @@ package strings;
 import java.util.Scanner;
 public class mostOccuringCharactersQ9 {
     public static void main(String[] args) {
+       // character that is occuring most no of times
         Scanner sc = new Scanner(System.in);
         String s = sc.next();
         int[] freq = new int[26];
